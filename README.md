@@ -1,2 +1,2 @@
 # zooper
-My Zooper Widgets
+My Zooper Widgets.

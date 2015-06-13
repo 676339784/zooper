@@ -12,5 +12,5 @@ The font used is GohuFont. Icons are from ![Glyphs by Tokems](http://forum.xda-d
   ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-21-27-46.png "Screencapture")
   
 ## Demo
-  ![WebM](https://u.teknik.io/eaCMxx.webm)
+  [WebM](https://u.teknik.io/eaCMxx.webm)
   

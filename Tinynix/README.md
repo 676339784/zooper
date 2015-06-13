@@ -10,7 +10,7 @@ The font used is [GohuFont](http://font.gohu.org/). Icons are from ![Glyphs by T
   
 ## Pictures
   ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-21-27-31.png "Screencapture")
-  ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-21-27-36.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-22-59-26.png "Screencapture")
   ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-10-16-13-46.png "Screencapture")
   ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-21-27-46.png "Screencapture")
   

@@ -6,10 +6,10 @@ This theme is comprised of five Zooper Widgets named "Boxes", "Home", "Music", "
 The font used is GohuFont. Icons are from ![Glyphs by Tokems](http://forum.xda-developers.com/android/themes/icons-pack-glyphs-tokems-t3019186).
 
 ## Pictures
-  ![Screencapture](https://676339784.github.io/Screenshot_2015-06-12-21-27-31.png "Screencapture")
-  ![Screencapture](https://676339784.github.io/Screenshot_2015-06-12-21-27-36.png "Screencapture")
-  ![Screencapture](https://676339784.github.io/Screenshot_2015-06-10-16-13-46.png "Screencapture")
-  ![Screencapture](https://676339784.github.io/Screenshot_2015-06-12-21-27-46.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-21-27-31.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-21-27-36.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-10-16-13-46.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Tinynix/Screenshot_2015-06-12-21-27-46.png "Screencapture")
   
 ## Demo
   ![WebM](https://u.teknik.io/eaCMxx.webm)

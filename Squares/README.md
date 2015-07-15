@@ -7,4 +7,4 @@ Font used in clock is CoolVetica. Font used in battery and weather is Roboto Lig
 
 
 ## Picture
-![Screencapture](https://676339784.github.io/Rice/Squares/Screenshot_2015-04-05-23-08-54.png "Screencapture")
+![Screencapture](https://676339784.github.io/Zooper/Squares/Screenshot_2015-04-05-23-08-54.png "Screencapture")

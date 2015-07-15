@@ -9,10 +9,10 @@ The font used is [GohuFont](http://font.gohu.org/). Icons are from [Glyphs by To
   **[WebM](https://676339784.github.io/Rice/Tinynix/okdeul.webm)**
   
 ## Pictures
-  ![Screencapture](https://676339784.github.io/Rice/Tinynix/Screenshot_2015-06-12-21-27-31.png "Screencapture")
-  ![Screencapture](https://676339784.github.io/Rice/Tinynix/Screenshot_2015-06-12-22-59-26.png "Screencapture")
-  ![Screencapture](https://676339784.github.io/Rice/Tinynix/Screenshot_2015-06-10-16-13-46.png "Screencapture")
-  ![Screencapture](https://676339784.github.io/Rice/Tinynix/Screenshot_2015-06-12-21-27-46.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Zooper/Tinynix/Screenshot_2015-06-12-21-27-31.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Zooper/Tinynix/Screenshot_2015-06-12-22-59-26.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Zooper/Tinynix/Screenshot_2015-06-10-16-13-46.png "Screencapture")
+  ![Screencapture](https://676339784.github.io/Zooper/Tinynix/Screenshot_2015-06-12-21-27-46.png "Screencapture")
   
 
   

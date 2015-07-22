@@ -1,2 +1,0 @@
-# zooper
-My Zooper Widgets.

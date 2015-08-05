@@ -14,11 +14,12 @@ This music widget displays the album art in the background, with artist, album n
 
 This clock widget is a (hasty) port of a clock widget made by [/u/WinneonSword](https://reddit.com/u/WinneonSword) for [/r/iOSthemes](https:/reddit.com/r/iOSthemes) on reddit.
 
-![Screencapture](https://676339784.github.io/Zooper/Miscell/Cataracs.png "Cataracs")
+<img src="https://676339784.github.io/Zooper/Miscell/Cataracs.png" width="650">
 
 ### Palewave
 
 A scrapped theme of mine. Has a colorscheme based off of [this](https://i.imgur.com/JzCnJ0q.jpg) picture.
 
-![Screencapture](https://676339784.github.io/Zooper/Miscell/Palewave.png "Palewave")
+<img src="https://676339784.github.io/Zooper/Miscell/Palewave.png" width="650">
+
 
